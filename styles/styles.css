@@ -107,6 +107,9 @@ hr {
   justify-self: end;
 }
 
+.skill_title{
+  margin: 0;
+}
 .skill_description {
   width: 90%;
   line-height: 1.5;
@@ -144,7 +147,12 @@ h3 {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
+.btn:hover{
+  background: white;
+  color: #11cdd4;
 
+
+}
 .bottom_container {
   background-color: #66bfbf;
   padding: 50px 0 20px;
